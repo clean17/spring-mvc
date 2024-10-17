@@ -14,8 +14,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class YouTubeVideoDownloader {
-    private static final String API_KEY = "AIzaSyBX1bzyXJ86JnXPE1mlFck8CLFct2nA0ls";
-    private static final String CHANNEL_USERNAME = "mojjustice01";
+    private static final String API_KEY = "";
+    private static final String CHANNEL_USERNAME = "";
     private static final String API_URL_CHANNEL = "https://www.googleapis.com/youtube/v3/channels";
     private static final String API_URL_SEARCH = "https://www.googleapis.com/youtube/v3/search";
     private static final String API_URL_VIDEO_DETAILS = "https://www.googleapis.com/youtube/v3/videos";
